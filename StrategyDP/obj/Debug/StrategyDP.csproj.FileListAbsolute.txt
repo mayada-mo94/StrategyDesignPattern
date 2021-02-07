@@ -1,0 +1,7 @@
+C:\Users\MMohsen\source\repos\StrategyDP\StrategyDP\bin\Debug\StrategyDP.exe.config
+C:\Users\MMohsen\source\repos\StrategyDP\StrategyDP\bin\Debug\StrategyDP.exe
+C:\Users\MMohsen\source\repos\StrategyDP\StrategyDP\bin\Debug\StrategyDP.pdb
+C:\Users\MMohsen\source\repos\StrategyDP\StrategyDP\obj\Debug\StrategyDP.csprojAssemblyReference.cache
+C:\Users\MMohsen\source\repos\StrategyDP\StrategyDP\obj\Debug\StrategyDP.csproj.CoreCompileInputs.cache
+C:\Users\MMohsen\source\repos\StrategyDP\StrategyDP\obj\Debug\StrategyDP.exe
+C:\Users\MMohsen\source\repos\StrategyDP\StrategyDP\obj\Debug\StrategyDP.pdb
